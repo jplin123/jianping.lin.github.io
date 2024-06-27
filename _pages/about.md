@@ -28,9 +28,6 @@ My research interest includes design and control of wearable devices and robots.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 [Optimal task-invariant energetic control for a knee-ankle exoskeleton](https://ieeexplore.ieee.org/abstract/document/9483212/)
 
 **Jianping Lin**, NV Divekar, G Lv, RD Gregg
